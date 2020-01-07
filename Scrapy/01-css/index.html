@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /*
+            ID
+            # + nombreId
+        */
+        #title-one{
+            background-color: red;
+        }
+        /*
+            NOMBRE-ETIQUETA
+            nombre-etiqueta
+        */
+        p{
+            color: chocolate;
+            background-color: cornflowerblue;
+        }
+        /*
+            CLASES
+            . + nombre-clase
+        */
+        .yellow-text{
+            color: yellow;
+        }
+        .brown-text{
+            color: brown;
+        }
+        .blue-text{
+            color: blue;
+        }
+        .white-text{
+            color: white;
+        }
+        .green-background{
+            background-color: green;
+        }
+        li > p{
+            background-color: black;
+            color: floralwhite;
+        }
+        li > p.yellow-text.brown-text.blue-text.white-text{
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="yellow-text">STYLES</h1>
+    <p class="green-background" style="background-color: indigo">Mi mama</p>
+    <p class="yellow-text blue-text brown-text white-text">
+        Me mima
+    </p>
+    <ul>
+        <li>
+            <p>Muy</p>
+        </li>
+        <li>
+            <p>Buenos</p>
+        </li>
+        <li>
+            <p class="yellow-text blue-text brown-text white-text">Dias</p>
+        </li>
+    </ul>
+</body>
+</html>
