@@ -9,3 +9,509 @@ Book Title: A Year in Provence ...	Link: http://books.toscrape.com/catalogue/a-y
 Book Title: The Road to Little ...	Link: http://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html	Price: 23.21	
 Book Title: Neither Here nor There: ...	Link: http://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html	Price: 38.95	
 Book Title: 1,000 Places to See ...	Link: http://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html	Price: 26.08	
+Book Title: Rip it Up and ...	Link: http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html	Price: 35.02	
+Book Title: Our Band Could Be ...	Link: http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html	Price: 57.25	
+Book Title: How Music Works	Link: http://books.toscrape.com/catalogue/how-music-works_979/index.html	Price: 37.32	
+Book Title: Love Is a Mix ...	Link: http://books.toscrape.com/catalogue/love-is-a-mix-tape-music-1_711/index.html	Price: 18.03	
+Book Title: Please Kill Me: The ...	Link: http://books.toscrape.com/catalogue/please-kill-me-the-uncensored-oral-history-of-punk_537/index.html	Price: 31.19	
+Book Title: Kill 'Em and Leave: ...	Link: http://books.toscrape.com/catalogue/kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html	Price: 45.05	
+Book Title: Chronicles, Vol. 1	Link: http://books.toscrape.com/catalogue/chronicles-vol-1_462/index.html	Price: 52.60	
+Book Title: This Is Your Brain ...	Link: http://books.toscrape.com/catalogue/this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html	Price: 38.40	
+Book Title: Orchestra of Exiles: The ...	Link: http://books.toscrape.com/catalogue/orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html	Price: 12.36	
+Book Title: No One Here Gets ...	Link: http://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html	Price: 20.02	
+Book Title: Life	Link: http://books.toscrape.com/catalogue/life_104/index.html	Price: 31.58	
+Book Title: Old Records Never Die: ...	Link: http://books.toscrape.com/catalogue/old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html	Price: 55.66	
+Book Title: Forever Rockers (The Rocker ...	Link: http://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html	Price: 28.80	
+Book Title: Without Borders (Wanderlove #1)	Link: http://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html	Price: 45.07	
+Book Title: The Mistake (Off-Campus #2)	Link: http://books.toscrape.com/catalogue/the-mistake-off-campus-2_851/index.html	Price: 43.29	
+Book Title: The Matchmaker's Playbook (Wingmen ...	Link: http://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html	Price: 55.85	
+Book Title: The Hook Up (Game ...	Link: http://books.toscrape.com/catalogue/the-hook-up-game-on-1_68/index.html	Price: 36.29	
+Book Title: Shameless	Link: http://books.toscrape.com/catalogue/shameless_52/index.html	Price: 58.35	
+Book Title: Off Sides (Off #1)	Link: http://books.toscrape.com/catalogue/off-sides-off-1_38/index.html	Price: 39.45	
+Book Title: The Coming Woman: A ...	Link: http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html	Price: 17.93	
+Book Title: The Boys in the ...	Link: http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html	Price: 22.60	
+Book Title: Starving Hearts (Triangular Trade ...	Link: http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html	Price: 13.99	
+Book Title: America's Cradle of Quarterbacks: ...	Link: http://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html	Price: 22.50	
+Book Title: Aladdin and His Wonderful ...	Link: http://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html	Price: 53.13	
+Book Title: Penny Maybe	Link: http://books.toscrape.com/catalogue/penny-maybe_965/index.html	Price: 33.29	
+Book Title: Maude (1883-1993):She Grew Up ...	Link: http://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html	Price: 18.02	
+Book Title: The Inefficiency Assassin: Time ...	Link: http://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html	Price: 20.59	
+Book Title: Soul Reader	Link: http://books.toscrape.com/catalogue/soul-reader_926/index.html	Price: 39.58	
+Book Title: Bossypants	Link: http://books.toscrape.com/catalogue/bossypants_883/index.html	Price: 49.46	
+Book Title: A World of Flavor: ...	Link: http://books.toscrape.com/catalogue/a-world-of-flavor-your-gluten-free-passport_879/index.html	Price: 42.95	
+Book Title: A Piece of Sky, ...	Link: http://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html	Price: 56.76	
+Book Title: Tracing Numbers on a ...	Link: http://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html	Price: 41.60	
+Book Title: Thirteen Reasons Why	Link: http://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html	Price: 52.72	
+Book Title: The Secret (The Secret ...	Link: http://books.toscrape.com/catalogue/the-secret-the-secret-1_859/index.html	Price: 27.37	
+Book Title: The Psychopath Test: A ...	Link: http://books.toscrape.com/catalogue/the-psychopath-test-a-journey-through-the-madness-industry_857/index.html	Price: 36.00	
+Book Title: The Kite Runner	Link: http://books.toscrape.com/catalogue/the-kite-runner_847/index.html	Price: 41.82	
+Book Title: The Girl on the ...	Link: http://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html	Price: 55.02	
+Book Title: The Emerald Mystery	Link: http://books.toscrape.com/catalogue/the-emerald-mystery_842/index.html	Price: 23.15	
+Book Title: The Bridge to Consciousness: ...	Link: http://books.toscrape.com/catalogue/the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html	Price: 32.00	
+Book Title: The Torch Is Passed: ...	Link: http://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html	Price: 19.09	
+Book Title: The Mindfulness and Acceptance ...	Link: http://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html	Price: 23.89	
+Book Title: The Art Forger	Link: http://books.toscrape.com/catalogue/the-art-forger_930/index.html	Price: 40.76	
+Book Title: On a Midnight Clear	Link: http://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html	Price: 14.07	
+Book Title: Judo: Seven Steps to ...	Link: http://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html	Price: 53.90	
+Book Title: Shobu Samurai, Project Aryoku ...	Link: http://books.toscrape.com/catalogue/shobu-samurai-project-aryoku-3_830/index.html	Price: 29.06	
+Book Title: Modern Romance	Link: http://books.toscrape.com/catalogue/modern-romance_820/index.html	Price: 28.26	
+Book Title: The White Queen (The ...	Link: http://books.toscrape.com/catalogue/the-white-queen-the-cousins-war-1_768/index.html	Price: 25.91	
+Book Title: The Song of Achilles	Link: http://books.toscrape.com/catalogue/the-song-of-achilles_762/index.html	Price: 37.40	
+Book Title: The Immortal Life of ...	Link: http://books.toscrape.com/catalogue/the-immortal-life-of-henrietta-lacks_753/index.html	Price: 40.67	
+Book Title: The Dovekeepers	Link: http://books.toscrape.com/catalogue/the-dovekeepers_748/index.html	Price: 48.78	
+Book Title: More Than Music (Chasing ...	Link: http://books.toscrape.com/catalogue/more-than-music-chasing-the-dream-1_716/index.html	Price: 37.61	
+Book Title: Code Name Verity (Code ...	Link: http://books.toscrape.com/catalogue/code-name-verity-code-name-verity-1_680/index.html	Price: 22.13	
+Book Title: Cell	Link: http://books.toscrape.com/catalogue/cell_674/index.html	Price: 20.29	
+Book Title: Angels Walking (Angels Walking ...	Link: http://books.toscrape.com/catalogue/angels-walking-angels-walking-1_662/index.html	Price: 34.20	
+Book Title: A Series of Catastrophes ...	Link: http://books.toscrape.com/catalogue/a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html	Price: 56.48	
+Book Title: A People's History of ...	Link: http://books.toscrape.com/catalogue/a-peoples-history-of-the-united-states_654/index.html	Price: 40.79	
+Book Title: A Brush of Wings ...	Link: http://books.toscrape.com/catalogue/a-brush-of-wings-angels-walking-3_651/index.html	Price: 55.51	
+Book Title: Rook	Link: http://books.toscrape.com/catalogue/rook_647/index.html	Price: 37.86	
+Book Title: The Midnight Watch: A ...	Link: http://books.toscrape.com/catalogue/the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html	Price: 26.20	
+Book Title: The Requiem Red	Link: http://books.toscrape.com/catalogue/the-requiem-red_995/index.html	Price: 22.65	
+Book Title: Set Me Free	Link: http://books.toscrape.com/catalogue/set-me-free_988/index.html	Price: 17.46	
+Book Title: The Natural History of ...	Link: http://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html	Price: 45.22	
+Book Title: Obsidian (Lux #1)	Link: http://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html	Price: 14.86	
+Book Title: Burning	Link: http://books.toscrape.com/catalogue/burning_884/index.html	Price: 28.81	
+Book Title: A Fierce and Subtle ...	Link: http://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html	Price: 28.13	
+Book Title: Scarlett Epstein Hates It ...	Link: http://books.toscrape.com/catalogue/scarlett-epstein-hates-it-here_828/index.html	Price: 43.55	
+Book Title: Nightingale, Sing	Link: http://books.toscrape.com/catalogue/nightingale-sing_823/index.html	Price: 38.28	
+Book Title: Library of Souls (Miss ...	Link: http://books.toscrape.com/catalogue/library-of-souls-miss-peregrines-peculiar-children-3_816/index.html	Price: 48.56	
+Book Title: Frostbite (Vampire Academy #2)	Link: http://books.toscrape.com/catalogue/frostbite-vampire-academy-2_810/index.html	Price: 29.99	
+Book Title: Wild Swans	Link: http://books.toscrape.com/catalogue/wild-swans_782/index.html	Price: 14.36	
+Book Title: Until Friday Night (The ...	Link: http://books.toscrape.com/catalogue/until-friday-night-the-field-party-1_775/index.html	Price: 46.31	
+Book Title: This Is Where It ...	Link: http://books.toscrape.com/catalogue/this-is-where-it-ends_771/index.html	Price: 27.12	
+Book Title: The Darkest Lie	Link: http://books.toscrape.com/catalogue/the-darkest-lie_747/index.html	Price: 35.35	
+Book Title: My Kind of Crazy	Link: http://books.toscrape.com/catalogue/my-kind-of-crazy_718/index.html	Price: 40.36	
+Book Title: Don't Get Caught	Link: http://books.toscrape.com/catalogue/dont-get-caught_687/index.html	Price: 55.35	
+Book Title: Catching Jordan (Hundred Oaks)	Link: http://books.toscrape.com/catalogue/catching-jordan-hundred-oaks_673/index.html	Price: 50.83	
+Book Title: Aristotle and Dante Discover ...	Link: http://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html	Price: 58.14	
+Book Title: The Epidemic (The Program ...	Link: http://books.toscrape.com/catalogue/the-epidemic-the-program-06_636/index.html	Price: 14.44	
+Book Title: Stars Above (The Lunar ...	Link: http://books.toscrape.com/catalogue/stars-above-the-lunar-chronicles-45_632/index.html	Price: 48.05	
+Book Title: Mesaerion: The Best Science ...	Link: http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html	Price: 37.59	
+Book Title: Join	Link: http://books.toscrape.com/catalogue/join_902/index.html	Price: 35.67	
+Book Title: William Shakespeare's Star Wars: ...	Link: http://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html	Price: 43.30	
+Book Title: The Project	Link: http://books.toscrape.com/catalogue/the-project_856/index.html	Price: 10.65	
+Book Title: Soft Apocalypse	Link: http://books.toscrape.com/catalogue/soft-apocalypse_833/index.html	Price: 26.12	
+Book Title: Sleeping Giants (Themis Files ...	Link: http://books.toscrape.com/catalogue/sleeping-giants-themis-files-1_604/index.html	Price: 48.74	
+Book Title: Arena	Link: http://books.toscrape.com/catalogue/arena_587/index.html	Price: 21.36	
+Book Title: Foundation (Foundation (Publication Order) ...	Link: http://books.toscrape.com/catalogue/foundation-foundation-publication-order-1_375/index.html	Price: 32.42	
+Book Title: The Restaurant at the ...	Link: http://books.toscrape.com/catalogue/the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html	Price: 10.92	
+Book Title: Ready Player One	Link: http://books.toscrape.com/catalogue/ready-player-one_209/index.html	Price: 19.07	
+Book Title: Life, the Universe and ...	Link: http://books.toscrape.com/catalogue/life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html	Price: 33.26	
+Book Title: Dune (Dune #1)	Link: http://books.toscrape.com/catalogue/dune-dune-1_151/index.html	Price: 54.86	
+Book Title: Do Androids Dream of ...	Link: http://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html	Price: 51.48	
+Book Title: Three Wishes (River of ...	Link: http://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html	Price: 44.18	
+Book Title: The Last Girl (The ...	Link: http://books.toscrape.com/catalogue/the-last-girl-the-dominion-trilogy-1_70/index.html	Price: 36.26	
+Book Title: Having the Barbarian's Baby ...	Link: http://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html	Price: 34.96	
+Book Title: Unicorn Tracks	Link: http://books.toscrape.com/catalogue/unicorn-tracks_951/index.html	Price: 18.78	
+Book Title: Saga, Volume 6 (Saga ...	Link: http://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html	Price: 25.02	
+Book Title: Princess Between Worlds (Wide-Awake ...	Link: http://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html	Price: 13.34	
+Book Title: Masks and Shadows	Link: http://books.toscrape.com/catalogue/masks-and-shadows_909/index.html	Price: 56.40	
+Book Title: Crown of Midnight (Throne ...	Link: http://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html	Price: 43.29	
+Book Title: Avatar: The Last Airbender: ...	Link: http://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html	Price: 28.09	
+Book Title: A Court of Thorns ...	Link: http://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html	Price: 52.37	
+Book Title: Throne of Glass (Throne ...	Link: http://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html	Price: 35.07	
+Book Title: The Glittering Court (The ...	Link: http://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html	Price: 44.28	
+Book Title: Hollow City (Miss Peregrine’s ...	Link: http://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html	Price: 42.98	
+Book Title: The Star-Touched Queen	Link: http://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html	Price: 46.02	
+Book Title: The Hidden Oracle (The ...	Link: http://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html	Price: 52.26	
+Book Title: The Bane Chronicles (The ...	Link: http://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html	Price: 44.73	
+Book Title: Island of Dragons (Unwanteds ...	Link: http://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html	Price: 29.65	
+Book Title: Demigods & Magicians: Percy ...	Link: http://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html	Price: 37.51	
+Book Title: City of Glass (The ...	Link: http://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html	Price: 56.02	
+Book Title: Searching for Meaning in ...	Link: http://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html	Price: 38.73	
+Book Title: The Star-Touched Queen	Link: http://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html	Price: 32.30	
+Book Title: A Shard of Ice ...	Link: http://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html	Price: 56.63	
+Book Title: King's Folly (The Kinsman ...	Link: http://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html	Price: 39.61	
+Book Title: The Book of Basketball: ...	Link: http://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html	Price: 44.84	
+Book Title: Friday Night Lights: A ...	Link: http://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html	Price: 51.22	
+Book Title: Sugar Rush (Offensive Line ...	Link: http://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html	Price: 24.42	
+Book Title: Settling the Score (The ...	Link: http://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html	Price: 44.91	
+Book Title: Icing (Aces Hockey #2)	Link: http://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html	Price: 40.44	
+Book Title: Worlds Elsewhere: Journeys Around ...	Link: http://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html	Price: 40.30	
+Book Title: The Five Love Languages: ...	Link: http://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html	Price: 31.05	
+Book Title: Reasons to Stay Alive	Link: http://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html	Price: 26.41	
+Book Title: #HigherSelfie: Wake Up Your ...	Link: http://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html	Price: 23.11	
+Book Title: Unseen City: The Majesty ...	Link: http://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html	Price: 44.18	
+Book Title: Throwing Rocks at the ...	Link: http://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html	Price: 31.12	
+Book Title: The Life-Changing Magic of ...	Link: http://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html	Price: 16.77	
+Book Title: The Gutsy Girl: Escapades ...	Link: http://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html	Price: 37.13	
+Book Title: The Electric Pencil: Drawings ...	Link: http://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html	Price: 56.06	
+Book Title: Spark Joy: An Illustrated ...	Link: http://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html	Price: 41.83	
+Book Title: Reskilling America: Learning to ...	Link: http://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html	Price: 19.83	
+Book Title: In the Country We ...	Link: http://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html	Price: 22.00	
+Book Title: Everydata: The Misinformation Hidden ...	Link: http://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html	Price: 54.35	
+Book Title: Call the Nurse: True ...	Link: http://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html	Price: 29.14	
+Book Title: Algorithms to Live By: ...	Link: http://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html	Price: 30.81	
+Book Title: The Power of Now: ...	Link: http://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html	Price: 43.54	
+Book Title: The Omnivore's Dilemma: A ...	Link: http://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html	Price: 38.21	
+Book Title: The Genius of Birds	Link: http://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html	Price: 17.24	
+Book Title: The Artist's Way: A ...	Link: http://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html	Price: 38.49	
+Book Title: So You've Been Publicly ...	Link: http://books.toscrape.com/catalogue/so-youve-been-publicly-shamed_832/index.html	Price: 12.23	
+Book Title: Don't Be a Jerk: ...	Link: http://books.toscrape.com/catalogue/dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html	Price: 37.97	
+Book Title: You Are What You ...	Link: http://books.toscrape.com/catalogue/you-are-what-you-love-the-spiritual-power-of-habit_872/index.html	Price: 21.87	
+Book Title: God: The Most Unpleasant ...	Link: http://books.toscrape.com/catalogue/god-the-most-unpleasant-character-in-all-fiction_697/index.html	Price: 30.03	
+Book Title: The Book of Mormon	Link: http://books.toscrape.com/catalogue/the-book-of-mormon_571/index.html	Price: 24.57	
+Book Title: A History of God: ...	Link: http://books.toscrape.com/catalogue/a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html	Price: 27.62	
+Book Title: The Bhagavad Gita	Link: http://books.toscrape.com/catalogue/the-bhagavad-gita_60/index.html	Price: 57.49	
+Book Title: Choosing Our Religion: The ...	Link: http://books.toscrape.com/catalogue/choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html	Price: 28.42	
+Book Title: Birdsong: A Story in ...	Link: http://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html	Price: 54.64	
+Book Title: The Bear and the ...	Link: http://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html	Price: 36.89	
+Book Title: The Secret of Dreadwillow ...	Link: http://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html	Price: 56.13	
+Book Title: The White Cat and ...	Link: http://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html	Price: 58.08	
+Book Title: Little Red	Link: http://books.toscrape.com/catalogue/little-red_817/index.html	Price: 13.47	
+Book Title: Walt Disney's Alice in ...	Link: http://books.toscrape.com/catalogue/walt-disneys-alice-in-wonderland_777/index.html	Price: 12.96	
+Book Title: Twenty Yawns	Link: http://books.toscrape.com/catalogue/twenty-yawns_773/index.html	Price: 22.08	
+Book Title: Rain Fish	Link: http://books.toscrape.com/catalogue/rain-fish_728/index.html	Price: 23.57	
+Book Title: Once Was a Time	Link: http://books.toscrape.com/catalogue/once-was-a-time_724/index.html	Price: 18.28	
+Book Title: Luis Paints the World	Link: http://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html	Price: 53.95	
+Book Title: Nap-a-Roo	Link: http://books.toscrape.com/catalogue/nap-a-roo_567/index.html	Price: 25.08	
+Book Title: The Whale	Link: http://books.toscrape.com/catalogue/the-whale_501/index.html	Price: 35.96	
+Book Title: Shrunken Treasures: Literary Classics, ...	Link: http://books.toscrape.com/catalogue/shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html	Price: 52.87	
+Book Title: Raymie Nightingale	Link: http://books.toscrape.com/catalogue/raymie-nightingale_482/index.html	Price: 34.41	
+Book Title: Playing from the Heart	Link: http://books.toscrape.com/catalogue/playing-from-the-heart_481/index.html	Price: 32.38	
+Book Title: Maybe Something Beautiful: How ...	Link: http://books.toscrape.com/catalogue/maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html	Price: 22.54	
+Book Title: The Wild Robot	Link: http://books.toscrape.com/catalogue/the-wild-robot_288/index.html	Price: 56.07	
+Book Title: The Thing About Jellyfish	Link: http://books.toscrape.com/catalogue/the-thing-about-jellyfish_283/index.html	Price: 48.77	
+Book Title: The Lonely Ones	Link: http://books.toscrape.com/catalogue/the-lonely-ones_261/index.html	Price: 43.59	
+Book Title: The Day the Crayons ...	Link: http://books.toscrape.com/catalogue/the-day-the-crayons-came-home-crayons_241/index.html	Price: 26.33	
+Book Title: Soumission	Link: http://books.toscrape.com/catalogue/soumission_998/index.html	Price: 50.10	
+Book Title: Private Paris (Private #10)	Link: http://books.toscrape.com/catalogue/private-paris-private-10_958/index.html	Price: 47.61	
+Book Title: We Love You, Charlie ...	Link: http://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html	Price: 50.27	
+Book Title: Thirst	Link: http://books.toscrape.com/catalogue/thirst_946/index.html	Price: 17.27	
+Book Title: The Murder That Never ...	Link: http://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html	Price: 54.11	
+Book Title: Tuesday Nights in 1980	Link: http://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html	Price: 21.04	
+Book Title: The Vacationers	Link: http://books.toscrape.com/catalogue/the-vacationers_863/index.html	Price: 42.15	
+Book Title: The Regional Office Is ...	Link: http://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html	Price: 51.36	
+Book Title: Finders Keepers (Bill Hodges ...	Link: http://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html	Price: 53.53	
+Book Title: The Time Keeper	Link: http://books.toscrape.com/catalogue/the-time-keeper_766/index.html	Price: 27.88	
+Book Title: The Testament of Mary	Link: http://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html	Price: 52.67	
+Book Title: The First Hostage (J.B. ...	Link: http://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html	Price: 25.85	
+Book Title: Take Me with You	Link: http://books.toscrape.com/catalogue/take-me-with-you_741/index.html	Price: 45.21	
+Book Title: Still Life with Bread ...	Link: http://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html	Price: 26.41	
+Book Title: Shtum	Link: http://books.toscrape.com/catalogue/shtum_733/index.html	Price: 55.84	
+Book Title: My Name Is Lucy ...	Link: http://books.toscrape.com/catalogue/my-name-is-lucy-barton_720/index.html	Price: 41.56	
+Book Title: My Mrs. Brown	Link: http://books.toscrape.com/catalogue/my-mrs-brown_719/index.html	Price: 24.48	
+Book Title: Mr. Mercedes (Bill Hodges ...	Link: http://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html	Price: 28.90	
+Book Title: I Am Pilgrim (Pilgrim ...	Link: http://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html	Price: 10.60	
+Book Title: Eligible (The Austen Project ...	Link: http://books.toscrape.com/catalogue/eligible-the-austen-project-4_692/index.html	Price: 27.09	
+Book Title: I Had a Nice ...	Link: http://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html	Price: 57.36	
+Book Title: Will You Won't You ...	Link: http://books.toscrape.com/catalogue/will-you-wont-you-want-me_644/index.html	Price: 13.86	
+Book Title: Keep Me Posted	Link: http://books.toscrape.com/catalogue/keep-me-posted_594/index.html	Price: 20.46	
+Book Title: Grey (Fifty Shades #4)	Link: http://books.toscrape.com/catalogue/grey-fifty-shades-4_592/index.html	Price: 48.49	
+Book Title: Meternity	Link: http://books.toscrape.com/catalogue/meternity_478/index.html	Price: 43.58	
+Book Title: Some Women	Link: http://books.toscrape.com/catalogue/some-women_341/index.html	Price: 13.73	
+Book Title: Shopaholic Ties the Knot ...	Link: http://books.toscrape.com/catalogue/shopaholic-ties-the-knot-shopaholic-3_340/index.html	Price: 48.39	
+Book Title: Can You Keep a ...	Link: http://books.toscrape.com/catalogue/can-you-keep-a-secret_315/index.html	Price: 21.94	
+Book Title: Twenties Girl	Link: http://books.toscrape.com/catalogue/twenties-girl_292/index.html	Price: 42.80	
+Book Title: The Undomestic Goddess	Link: http://books.toscrape.com/catalogue/the-undomestic-goddess_286/index.html	Price: 45.75	
+Book Title: The Nanny Diaries (Nanny ...	Link: http://books.toscrape.com/catalogue/the-nanny-diaries-nanny-1_265/index.html	Price: 52.53	
+Book Title: The Devil Wears Prada ...	Link: http://books.toscrape.com/catalogue/the-devil-wears-prada-the-devil-wears-prada-1_243/index.html	Price: 44.29	
+Book Title: Something Borrowed (Darcy & ...	Link: http://books.toscrape.com/catalogue/something-borrowed-darcy-rachel-1_224/index.html	Price: 48.96	
+Book Title: Something Blue (Darcy & ...	Link: http://books.toscrape.com/catalogue/something-blue-darcy-rachel-2_223/index.html	Price: 54.62	
+Book Title: I've Got Your Number	Link: http://books.toscrape.com/catalogue/ive-got-your-number_173/index.html	Price: 19.69	
+Book Title: The Edge of Reason ...	Link: http://books.toscrape.com/catalogue/the-edge-of-reason-bridget-jones-2_63/index.html	Price: 19.18	
+Book Title: Bridget Jones's Diary (Bridget ...	Link: http://books.toscrape.com/catalogue/bridget-joness-diary-bridget-jones-1_10/index.html	Price: 29.82	
+Book Title: Chase Me (Paris Nights ...	Link: http://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html	Price: 25.27	
+Book Title: Black Dust	Link: http://books.toscrape.com/catalogue/black-dust_976/index.html	Price: 34.53	
+Book Title: Her Backup Boyfriend (The ...	Link: http://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html	Price: 33.97	
+Book Title: First and First (Five ...	Link: http://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html	Price: 15.97	
+Book Title: Fifty Shades Darker (Fifty ...	Link: http://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html	Price: 21.96	
+Book Title: The Wedding Dress	Link: http://books.toscrape.com/catalogue/the-wedding-dress_864/index.html	Price: 24.12	
+Book Title: Suddenly in Love (Lake ...	Link: http://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html	Price: 55.99	
+Book Title: Something More Than This	Link: http://books.toscrape.com/catalogue/something-more-than-this_834/index.html	Price: 16.24	
+Book Title: Doing It Over (Most ...	Link: http://books.toscrape.com/catalogue/doing-it-over-most-likely-to-1_802/index.html	Price: 35.61	
+Book Title: The Wedding Pact (The ...	Link: http://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html	Price: 32.61	
+Book Title: Hold Your Breath (Search ...	Link: http://books.toscrape.com/catalogue/hold-your-breath-search-and-rescue-1_700/index.html	Price: 28.82	
+Book Title: Dirty (Dive Bar #1)	Link: http://books.toscrape.com/catalogue/dirty-dive-bar-1_615/index.html	Price: 40.83	
+Book Title: Take Me Home Tonight ...	Link: http://books.toscrape.com/catalogue/take-me-home-tonight-rock-star-romance-3_605/index.html	Price: 53.98	
+Book Title: Off the Hook (Fishing ...	Link: http://books.toscrape.com/catalogue/off-the-hook-fishing-for-trouble-1_601/index.html	Price: 47.67	
+Book Title: A Gentleman's Position (Society ...	Link: http://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html	Price: 14.75	
+Book Title: Sit, Stay, Love	Link: http://books.toscrape.com/catalogue/sit-stay-love_486/index.html	Price: 20.90	
+Book Title: A Girl's Guide to ...	Link: http://books.toscrape.com/catalogue/a-girls-guide-to-moving-on-new-beginnings-2_359/index.html	Price: 31.30	
+Book Title: The Perfect Play (Play ...	Link: http://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html	Price: 59.99	
+Book Title: Dark Lover (Black Dagger ...	Link: http://books.toscrape.com/catalogue/dark-lover-black-dagger-brotherhood-1_319/index.html	Price: 12.87	
+Book Title: Changing the Game (Play ...	Link: http://books.toscrape.com/catalogue/changing-the-game-play-by-play-2_317/index.html	Price: 13.38	
+Book Title: Sophie's World	Link: http://books.toscrape.com/catalogue/sophies-world_966/index.html	Price: 15.94	
+Book Title: The Death of Humanity: ...	Link: http://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html	Price: 58.11	
+Book Title: The Stranger	Link: http://books.toscrape.com/catalogue/the-stranger_861/index.html	Price: 17.44	
+Book Title: Proofs of God: Classical ...	Link: http://books.toscrape.com/catalogue/proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html	Price: 54.21	
+Book Title: Kierkegaard: A Christian Missionary ...	Link: http://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html	Price: 47.13	
+Book Title: At The Existentialist Café: ...	Link: http://books.toscrape.com/catalogue/at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html	Price: 29.93	
+Book Title: Critique of Pure Reason	Link: http://books.toscrape.com/catalogue/critique-of-pure-reason_366/index.html	Price: 20.75	
+Book Title: Run, Spot, Run: The ...	Link: http://books.toscrape.com/catalogue/run-spot-run-the-ethics-of-keeping-pets_106/index.html	Price: 20.02	
+Book Title: The Nicomachean Ethics	Link: http://books.toscrape.com/catalogue/the-nicomachean-ethics_75/index.html	Price: 36.34	
+Book Title: Meditations	Link: http://books.toscrape.com/catalogue/meditations_33/index.html	Price: 25.89	
+Book Title: Beyond Good and Evil	Link: http://books.toscrape.com/catalogue/beyond-good-and-evil_6/index.html	Price: 43.38	
+Book Title: The Long Shadow of ...	Link: http://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html	Price: 10.97	
+Book Title: Dark Notes	Link: http://books.toscrape.com/catalogue/dark-notes_800/index.html	Price: 19.19	
+Book Title: Amid the Chaos	Link: http://books.toscrape.com/catalogue/amid-the-chaos_788/index.html	Price: 36.58	
+Book Title: Libertarianism for Beginners	Link: http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html	Price: 51.33	
+Book Title: Why the Right Went ...	Link: http://books.toscrape.com/catalogue/why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html	Price: 52.65	
+Book Title: Equal Is Unfair: America's ...	Link: http://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html	Price: 56.86	
+Book Title: The Bulletproof Diet: Lose ...	Link: http://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html	Price: 49.05	
+Book Title: Eat Fat, Get Thin	Link: http://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html	Price: 54.07	
+Book Title: 10-Day Green Smoothie Cleanse: ...	Link: http://books.toscrape.com/catalogue/10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html	Price: 49.71	
+Book Title: The Art and Science ...	Link: http://books.toscrape.com/catalogue/the-art-and-science-of-low-carbohydrate-living_570/index.html	Price: 52.98	
+Book Title: Suzie Snowflake: One beautiful ...	Link: http://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html	Price: 54.81	
+Book Title: The Grownup	Link: http://books.toscrape.com/catalogue/the-grownup_546/index.html	Price: 35.88	
+Book Title: Silence in the Dark ...	Link: http://books.toscrape.com/catalogue/silence-in-the-dark-logan-point-4_542/index.html	Price: 58.33	
+Book Title: (Un)Qualified: How God Uses ...	Link: http://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html	Price: 54.00	
+Book Title: Crazy Love: Overwhelmed by ...	Link: http://books.toscrape.com/catalogue/crazy-love-overwhelmed-by-a-relentless-god_682/index.html	Price: 47.72	
+Book Title: Blue Like Jazz: Nonreligious ...	Link: http://books.toscrape.com/catalogue/blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html	Price: 25.77	
+Book Title: Logan Kade (Fallen Crest ...	Link: http://books.toscrape.com/catalogue/logan-kade-fallen-crest-high-55_384/index.html	Price: 13.12	
+Book Title: The Four Agreements: A ...	Link: http://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html	Price: 17.66	
+Book Title: The Activist's Tao Te ...	Link: http://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html	Price: 32.24	
+Book Title: Chasing Heaven: What Dying ...	Link: http://books.toscrape.com/catalogue/chasing-heaven-what-dying-taught-me-about-living_797/index.html	Price: 37.80	
+Book Title: If I Gave You ...	Link: http://books.toscrape.com/catalogue/if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html	Price: 20.91	
+Book Title: Unreasonable Hope: Finding Faith ...	Link: http://books.toscrape.com/catalogue/unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html	Price: 46.33	
+Book Title: A New Earth: Awakening ...	Link: http://books.toscrape.com/catalogue/a-new-earth-awakening-to-your-lifes-purpose_311/index.html	Price: 55.65	
+Book Title: In Her Wake	Link: http://books.toscrape.com/catalogue/in-her-wake_980/index.html	Price: 12.84	
+Book Title: The Elephant Tree	Link: http://books.toscrape.com/catalogue/the-elephant-tree_968/index.html	Price: 23.82	
+Book Title: Behind Closed Doors	Link: http://books.toscrape.com/catalogue/behind-closed-doors_962/index.html	Price: 52.22	
+Book Title: You (You #1)	Link: http://books.toscrape.com/catalogue/you-you-1_784/index.html	Price: 43.61	
+Book Title: The Guilty (Will Robie ...	Link: http://books.toscrape.com/catalogue/the-guilty-will-robie-4_750/index.html	Price: 13.82	
+Book Title: The 14th Colony (Cotton ...	Link: http://books.toscrape.com/catalogue/the-14th-colony-cotton-malone-11_744/index.html	Price: 39.24	
+Book Title: Give It Back	Link: http://books.toscrape.com/catalogue/give-it-back_430/index.html	Price: 18.32	
+Book Title: Killing Floor (Jack Reacher ...	Link: http://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html	Price: 31.49	
+Book Title: The Bone Hunters (Lexy ...	Link: http://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html	Price: 59.71	
+Book Title: Far From True (Promise ...	Link: http://books.toscrape.com/catalogue/far-from-true-promise-falls-trilogy-2_320/index.html	Price: 34.93	
+Book Title: The Travelers	Link: http://books.toscrape.com/catalogue/the-travelers_285/index.html	Price: 15.77	
+Book Title: Online Marketing for Busy ...	Link: http://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html	Price: 46.35	
+Book Title: How to Be Miserable: ...	Link: http://books.toscrape.com/catalogue/how-to-be-miserable-40-strategies-you-already-use_897/index.html	Price: 46.03	
+Book Title: Overload: How to Unplug, ...	Link: http://books.toscrape.com/catalogue/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html	Price: 52.15	
+Book Title: You Are a Badass: ...	Link: http://books.toscrape.com/catalogue/you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html	Price: 12.08	
+Book Title: How to Stop Worrying ...	Link: http://books.toscrape.com/catalogue/how-to-stop-worrying-and-start-living_431/index.html	Price: 46.49	
+Book Title: When We Collided	Link: http://books.toscrape.com/catalogue/when-we-collided_955/index.html	Price: 31.77	
+Book Title: Someone Like You (The ...	Link: http://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html	Price: 52.79	
+Book Title: We Are All Completely ...	Link: http://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html	Price: 24.04	
+Book Title: All the Light We ...	Link: http://books.toscrape.com/catalogue/all-the-light-we-cannot-see_660/index.html	Price: 29.87	
+Book Title: The Girl You Left ...	Link: http://books.toscrape.com/catalogue/the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html	Price: 15.79	
+Book Title: Louisa: The Extraordinary Life ...	Link: http://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html	Price: 16.85	
+Book Title: Setting the World on ...	Link: http://books.toscrape.com/catalogue/setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html	Price: 21.15	
+Book Title: The Faith of Christopher ...	Link: http://books.toscrape.com/catalogue/the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html	Price: 39.55	
+Book Title: Benjamin Franklin: An American ...	Link: http://books.toscrape.com/catalogue/benjamin-franklin-an-american-life_460/index.html	Price: 48.19	
+Book Title: The Rise of Theodore ...	Link: http://books.toscrape.com/catalogue/the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html	Price: 42.57	
+Book Title: The Dirty Little Secrets ...	Link: http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html	Price: 33.34	
+Book Title: The Third Wave: An ...	Link: http://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html	Price: 12.61	
+Book Title: The 10% Entrepreneur: Live ...	Link: http://books.toscrape.com/catalogue/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html	Price: 27.55	
+Book Title: Shoe Dog: A Memoir ...	Link: http://books.toscrape.com/catalogue/shoe-dog-a-memoir-by-the-creator-of-nike_831/index.html	Price: 23.99	
+Book Title: Made to Stick: Why ...	Link: http://books.toscrape.com/catalogue/made-to-stick-why-some-ideas-survive-and-others-die_715/index.html	Price: 38.85	
+Book Title: Quench Your Own Thirst: ...	Link: http://books.toscrape.com/catalogue/quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html	Price: 43.14	
+Book Title: The Art of Startup ...	Link: http://books.toscrape.com/catalogue/the-art-of-startup-fundraising_606/index.html	Price: 21.00	
+Book Title: Born for This: How ...	Link: http://books.toscrape.com/catalogue/born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html	Price: 21.59	
+Book Title: The E-Myth Revisited: Why ...	Link: http://books.toscrape.com/catalogue/the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html	Price: 36.91	
+Book Title: Rich Dad, Poor Dad	Link: http://books.toscrape.com/catalogue/rich-dad-poor-dad_483/index.html	Price: 51.74	
+Book Title: The Lean Startup: How ...	Link: http://books.toscrape.com/catalogue/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html	Price: 33.92	
+Book Title: Rework	Link: http://books.toscrape.com/catalogue/rework_212/index.html	Price: 44.88	
+Book Title: Redeeming Love	Link: http://books.toscrape.com/catalogue/redeeming-love_826/index.html	Price: 20.47	
+Book Title: Close to You	Link: http://books.toscrape.com/catalogue/close-to-you_798/index.html	Price: 49.46	
+Book Title: Shadows of the Past ...	Link: http://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html	Price: 39.67	
+Book Title: Like Never Before (Walker ...	Link: http://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html	Price: 28.77	
+Book Title: Counted With the Stars ...	Link: http://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html	Price: 17.97	
+Book Title: If I Run (If ...	Link: http://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html	Price: 49.97	
+Book Title: Foolproof Preserving: A Guide ...	Link: http://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html	Price: 30.52	
+Book Title: The Pioneer Woman Cooks: ...	Link: http://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html	Price: 56.41	
+Book Title: My Paris Kitchen: Recipes ...	Link: http://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html	Price: 33.37	
+Book Title: Mama Tried: Traditional Italian ...	Link: http://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html	Price: 14.02	
+Book Title: Layered: Baking, Building, and ...	Link: http://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html	Price: 40.11	
+Book Title: The Nerdy Nummies Cookbook: ...	Link: http://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html	Price: 37.34	
+Book Title: The Love and Lemons ...	Link: http://books.toscrape.com/catalogue/the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html	Price: 37.60	
+Book Title: The Cookies & Cups ...	Link: http://books.toscrape.com/catalogue/the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html	Price: 41.25	
+Book Title: Deliciously Ella Every Day: ...	Link: http://books.toscrape.com/catalogue/deliciously-ella-every-day-quick-and-easy-recipes-for-gluten-free-snacks-packed-lunches-and-simple-meals_801/index.html	Price: 42.16	
+Book Title: The Help Yourself Cookbook ...	Link: http://books.toscrape.com/catalogue/the-help-yourself-cookbook-for-kids-60-easy-plant-based-recipes-kids-can-make-to-stay-healthy-and-save-the-earth_751/index.html	Price: 28.77	
+Book Title: It's All Easy: Healthy, ...	Link: http://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html	Price: 19.55	
+Book Title: Barefoot Contessa Back to ...	Link: http://books.toscrape.com/catalogue/barefoot-contessa-back-to-basics_667/index.html	Price: 28.01	
+Book Title: Barefoot Contessa at Home: ...	Link: http://books.toscrape.com/catalogue/barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html	Price: 50.62	
+Book Title: My Kitchen Year: 136 ...	Link: http://books.toscrape.com/catalogue/my-kitchen-year-136-recipes-that-saved-my-life_646/index.html	Price: 11.53	
+Book Title: Everyday Italian: 125 Simple ...	Link: http://books.toscrape.com/catalogue/everyday-italian-125-simple-and-delicious-recipes_618/index.html	Price: 20.10	
+Book Title: A la Mode: 120 ...	Link: http://books.toscrape.com/catalogue/a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html	Price: 38.77	
+Book Title: Cravings: Recipes for What ...	Link: http://books.toscrape.com/catalogue/cravings-recipes-for-what-you-want-to-eat_589/index.html	Price: 20.50	
+Book Title: The Moosewood Cookbook: Recipes ...	Link: http://books.toscrape.com/catalogue/the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html	Price: 12.34	
+Book Title: 32 Yolks	Link: http://books.toscrape.com/catalogue/32-yolks_510/index.html	Price: 53.63	
+Book Title: Naturally Lean: 125 Nourishing ...	Link: http://books.toscrape.com/catalogue/naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html	Price: 11.38	
+Book Title: Sapiens: A Brief History ...	Link: http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html	Price: 54.23	
+Book Title: Unbound: How Eight Technologies ...	Link: http://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html	Price: 25.52	
+Book Title: The Age of Genius: ...	Link: http://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html	Price: 19.73	
+Book Title: Political Suicide: Missteps, Peccadilloes, ...	Link: http://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html	Price: 36.28	
+Book Title: Thomas Jefferson and the ...	Link: http://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html	Price: 59.64	
+Book Title: Zealot: The Life and ...	Link: http://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html	Price: 24.70	
+Book Title: A Distant Mirror: The ...	Link: http://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html	Price: 14.58	
+Book Title: 1491: New Revelations of ...	Link: http://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html	Price: 21.80	
+Book Title: Brilliant Beacons: A History ...	Link: http://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html	Price: 11.45	
+Book Title: "Most Blessed of the ...	Link: http://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html	Price: 44.48	
+Book Title: A Short History of ...	Link: http://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html	Price: 52.40	
+Book Title: The Rise and Fall ...	Link: http://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html	Price: 39.67	
+Book Title: Catherine the Great: Portrait ...	Link: http://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html	Price: 58.55	
+Book Title: The Mathews Men: Seven ...	Link: http://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html	Price: 42.91	
+Book Title: The Hiding Place	Link: http://books.toscrape.com/catalogue/the-hiding-place_406/index.html	Price: 55.91	
+Book Title: America's War for the ...	Link: http://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html	Price: 51.22	
+Book Title: The Guns of August	Link: http://books.toscrape.com/catalogue/the-guns-of-august_254/index.html	Price: 14.54	
+Book Title: House of Lost Worlds: ...	Link: http://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html	Price: 43.70	
+Book Title: Security	Link: http://books.toscrape.com/catalogue/security_925/index.html	Price: 39.25	
+Book Title: Follow You Home	Link: http://books.toscrape.com/catalogue/follow-you-home_809/index.html	Price: 21.36	
+Book Title: The Loney	Link: http://books.toscrape.com/catalogue/the-loney_756/index.html	Price: 23.40	
+Book Title: Pet Sematary	Link: http://books.toscrape.com/catalogue/pet-sematary_726/index.html	Price: 10.56	
+Book Title: Doctor Sleep (The Shining ...	Link: http://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html	Price: 40.12	
+Book Title: Psycho: Sanitarium (Psycho #1.5)	Link: http://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html	Price: 36.97	
+Book Title: Can You Keep a ...	Link: http://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html	Price: 48.64	
+Book Title: Red Dragon (Hannibal Lecter ...	Link: http://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html	Price: 23.37	
+Book Title: Dracula the Un-Dead	Link: http://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html	Price: 35.63	
+Book Title: Night Shift (Night Shift ...	Link: http://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html	Price: 12.75	
+Book Title: Needful Things	Link: http://books.toscrape.com/catalogue/needful-things_334/index.html	Price: 47.51	
+Book Title: Misery	Link: http://books.toscrape.com/catalogue/misery_332/index.html	Price: 34.79	
+Book Title: It	Link: http://books.toscrape.com/catalogue/it_330/index.html	Price: 25.01	
+Book Title: 'Salem's Lot	Link: http://books.toscrape.com/catalogue/salems-lot_309/index.html	Price: 49.56	
+Book Title: The Stand	Link: http://books.toscrape.com/catalogue/the-stand_282/index.html	Price: 57.86	
+Book Title: The Girl with All ...	Link: http://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html	Price: 49.47	
+Book Title: House of Leaves	Link: http://books.toscrape.com/catalogue/house-of-leaves_169/index.html	Price: 54.89	
+Book Title: The Long Haul (Diary ...	Link: http://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html	Price: 44.07	
+Book Title: Old School (Diary of ...	Link: http://books.toscrape.com/catalogue/old-school-diary-of-a-wimpy-kid-10_723/index.html	Price: 11.83	
+Book Title: I Know What I'm ...	Link: http://books.toscrape.com/catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html	Price: 25.98	
+Book Title: Hyperbole and a Half: ...	Link: http://books.toscrape.com/catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html	Price: 14.75	
+Book Title: Dress Your Family in ...	Link: http://books.toscrape.com/catalogue/dress-your-family-in-corduroy-and-denim_562/index.html	Price: 43.68	
+Book Title: Toddlers Are A**holes: It's ...	Link: http://books.toscrape.com/catalogue/toddlers-are-aholes-its-not-your-fault_503/index.html	Price: 25.55	
+Book Title: When You Are Engulfed ...	Link: http://books.toscrape.com/catalogue/when-you-are-engulfed-in-flames_303/index.html	Price: 30.89	
+Book Title: Naked	Link: http://books.toscrape.com/catalogue/naked_197/index.html	Price: 31.69	
+Book Title: Lamb: The Gospel According ...	Link: http://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html	Price: 55.50	
+Book Title: Holidays on Ice	Link: http://books.toscrape.com/catalogue/holidays-on-ice_167/index.html	Price: 51.07	
+Book Title: Fifty Shades Freed (Fifty ...	Link: http://books.toscrape.com/catalogue/fifty-shades-freed-fifty-shades-3_156/index.html	Price: 15.36	
+Book Title: Catastrophic Happiness: Finding Joy ...	Link: http://books.toscrape.com/catalogue/catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html	Price: 37.35	
+Book Title: The Argonauts	Link: http://books.toscrape.com/catalogue/the-argonauts_837/index.html	Price: 10.93	
+Book Title: M Train	Link: http://books.toscrape.com/catalogue/m-train_598/index.html	Price: 27.18	
+Book Title: Lab Girl	Link: http://books.toscrape.com/catalogue/lab-girl_595/index.html	Price: 40.85	
+Book Title: Approval Junkie: Adventures in ...	Link: http://books.toscrape.com/catalogue/approval-junkie-adventures-in-caring-too-much_363/index.html	Price: 58.81	
+Book Title: Running with Scissors	Link: http://books.toscrape.com/catalogue/running-with-scissors_215/index.html	Price: 12.91	
+Book Title: Me Talk Pretty One ...	Link: http://books.toscrape.com/catalogue/me-talk-pretty-one-day_193/index.html	Price: 57.60	
+Book Title: Lust & Wonder	Link: http://books.toscrape.com/catalogue/lust-wonder_191/index.html	Price: 11.87	
+Book Title: Life Without a Recipe	Link: http://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html	Price: 59.04	
+Book Title: A Heartbreaking Work of ...	Link: http://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html	Price: 54.29	
+Book Title: Wall and Piece	Link: http://books.toscrape.com/catalogue/wall-and-piece_971/index.html	Price: 44.18	
+Book Title: Feathers: Displays of Brilliant ...	Link: http://books.toscrape.com/catalogue/feathers-displays-of-brilliant-plumage_695/index.html	Price: 49.05	
+Book Title: Art and Fear: Observations ...	Link: http://books.toscrape.com/catalogue/art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html	Price: 48.63	
+Book Title: The New Drawing on ...	Link: http://books.toscrape.com/catalogue/the-new-drawing-on-the-right-side-of-the-brain_550/index.html	Price: 43.02	
+Book Title: History of Beauty	Link: http://books.toscrape.com/catalogue/history-of-beauty_521/index.html	Price: 10.29	
+Book Title: The Story of Art	Link: http://books.toscrape.com/catalogue/the-story-of-art_500/index.html	Price: 41.14	
+Book Title: The Art Book	Link: http://books.toscrape.com/catalogue/the-art-book_490/index.html	Price: 32.34	
+Book Title: Ways of Seeing	Link: http://books.toscrape.com/catalogue/ways-of-seeing_94/index.html	Price: 39.51	
+Book Title: Vampire Knight, Vol. 1 ...	Link: http://books.toscrape.com/catalogue/vampire-knight-vol-1-vampire-knight-1_93/index.html	Price: 15.40	
+Book Title: A Light in the ...	Link: http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html	Price: 51.77	
+Book Title: The Black Maria	Link: http://books.toscrape.com/catalogue/the-black-maria_991/index.html	Price: 52.15	
+Book Title: Shakespeare's Sonnets	Link: http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html	Price: 20.66	
+Book Title: Olio	Link: http://books.toscrape.com/catalogue/olio_984/index.html	Price: 23.88	
+Book Title: You can't bury them ...	Link: http://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html	Price: 33.63	
+Book Title: Slow States of Collapse: ...	Link: http://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html	Price: 57.31	
+Book Title: Untitled Collection: Sabbath Poems ...	Link: http://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html	Price: 14.27	
+Book Title: Poems That Make Grown ...	Link: http://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html	Price: 14.19	
+Book Title: Night Sky with Exit ...	Link: http://books.toscrape.com/catalogue/night-sky-with-exit-wounds_822/index.html	Price: 41.05	
+Book Title: salt.	Link: http://books.toscrape.com/catalogue/salt_731/index.html	Price: 46.78	
+Book Title: Quarter Life Poetry: Poems ...	Link: http://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html	Price: 50.89	
+Book Title: Out of Print: City ...	Link: http://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html	Price: 53.64	
+Book Title: Les Fleurs du Mal	Link: http://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html	Price: 29.04	
+Book Title: Howl and Other Poems	Link: http://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html	Price: 40.45	
+Book Title: Leave This Song Behind: ...	Link: http://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html	Price: 51.17	
+Book Title: The Collected Poems of ...	Link: http://books.toscrape.com/catalogue/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html	Price: 15.42	
+Book Title: The Crossover	Link: http://books.toscrape.com/catalogue/the-crossover_398/index.html	Price: 38.77	
+Book Title: Booked	Link: http://books.toscrape.com/catalogue/booked_365/index.html	Price: 17.49	
+Book Title: Twenty Love Poems and ...	Link: http://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html	Price: 30.95	
+Book Title: The Lucifer Effect: Understanding ...	Link: http://books.toscrape.com/catalogue/the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html	Price: 10.40	
+Book Title: The Golden Condom: And ...	Link: http://books.toscrape.com/catalogue/the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html	Price: 39.43	
+Book Title: It Didn't Start with ...	Link: http://books.toscrape.com/catalogue/it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html	Price: 56.27	
+Book Title: An Unquiet Mind: A ...	Link: http://books.toscrape.com/catalogue/an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html	Price: 21.30	
+Book Title: Thinking, Fast and Slow	Link: http://books.toscrape.com/catalogue/thinking-fast-and-slow_289/index.html	Price: 21.14	
+Book Title: Civilization and Its Discontents	Link: http://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html	Price: 59.95	
+Book Title: 8 Keys to Mental ...	Link: http://books.toscrape.com/catalogue/8-keys-to-mental-health-through-exercise_114/index.html	Price: 31.04	
+Book Title: The Most Perfect Thing: ...	Link: http://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html	Price: 42.96	
+Book Title: Immunity: How Elie Metchnikoff ...	Link: http://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html	Price: 57.36	
+Book Title: Sorting the Beef from ...	Link: http://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html	Price: 44.74	
+Book Title: Tipping Point for Planet ...	Link: http://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html	Price: 37.55	
+Book Title: The Fabric of the ...	Link: http://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html	Price: 55.91	
+Book Title: Diary of a Citizen ...	Link: http://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html	Price: 28.41	
+Book Title: The Origin of Species	Link: http://books.toscrape.com/catalogue/the-origin-of-species_499/index.html	Price: 10.01	
+Book Title: The Grand Design	Link: http://books.toscrape.com/catalogue/the-grand-design_405/index.html	Price: 13.76	
+Book Title: Peak: Secrets from the ...	Link: http://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html	Price: 16.28	
+Book Title: The Elegant Universe: Superstrings, ...	Link: http://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html	Price: 13.03	
+Book Title: The Disappearing Spoon: And ...	Link: http://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html	Price: 57.35	
+Book Title: Surely You're Joking, Mr. ...	Link: http://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html	Price: 25.83	
+Book Title: Seven Brief Lessons on ...	Link: http://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html	Price: 30.60	
+Book Title: The Selfish Gene	Link: http://books.toscrape.com/catalogue/the-selfish-gene_81/index.html	Price: 29.45	
+Book Title: The Secret Garden	Link: http://books.toscrape.com/catalogue/the-secret-garden_413/index.html	Price: 15.08	
+Book Title: The Metamorphosis	Link: http://books.toscrape.com/catalogue/the-metamorphosis_409/index.html	Price: 28.58	
+Book Title: The Pilgrim's Progress	Link: http://books.toscrape.com/catalogue/the-pilgrims-progress_353/index.html	Price: 50.26	
+Book Title: The Hound of the ...	Link: http://books.toscrape.com/catalogue/the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html	Price: 14.82	
+Book Title: Little Women (Little Women ...	Link: http://books.toscrape.com/catalogue/little-women-little-women-1_331/index.html	Price: 28.07	
+Book Title: Gone with the Wind	Link: http://books.toscrape.com/catalogue/gone-with-the-wind_324/index.html	Price: 32.49	
+Book Title: Candide	Link: http://books.toscrape.com/catalogue/candide_316/index.html	Price: 58.63	
+Book Title: Animal Farm	Link: http://books.toscrape.com/catalogue/animal-farm_313/index.html	Price: 57.22	
+Book Title: Wuthering Heights	Link: http://books.toscrape.com/catalogue/wuthering-heights_307/index.html	Price: 17.73	
+Book Title: The Picture of Dorian ...	Link: http://books.toscrape.com/catalogue/the-picture-of-dorian-gray_270/index.html	Price: 29.70	
+Book Title: The Complete Stories and ...	Link: http://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html	Price: 26.78	
+Book Title: Beowulf	Link: http://books.toscrape.com/catalogue/beowulf_126/index.html	Price: 38.35	
+Book Title: And Then There Were ...	Link: http://books.toscrape.com/catalogue/and-then-there-were-none_119/index.html	Price: 35.01	
+Book Title: The Story of Hong ...	Link: http://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html	Price: 43.19	
+Book Title: The Little Prince	Link: http://books.toscrape.com/catalogue/the-little-prince_72/index.html	Price: 45.42	
+Book Title: Sense and Sensibility	Link: http://books.toscrape.com/catalogue/sense-and-sensibility_49/index.html	Price: 37.46	
+Book Title: Of Mice and Men	Link: http://books.toscrape.com/catalogue/of-mice-and-men_37/index.html	Price: 47.11	
+Book Title: Emma	Link: http://books.toscrape.com/catalogue/emma_17/index.html	Price: 32.93	
+Book Title: Alice in Wonderland (Alice's ...	Link: http://books.toscrape.com/catalogue/alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html	Price: 55.53	
+Book Title: Scott Pilgrim's Precious Little ...	Link: http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html	Price: 52.29	
+Book Title: Tsubasa: WoRLD CHRoNiCLE 2 ...	Link: http://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html	Price: 16.28	
+Book Title: This One Summer	Link: http://books.toscrape.com/catalogue/this-one-summer_947/index.html	Price: 19.49	
+Book Title: The Nameless City (The ...	Link: http://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html	Price: 38.16	
+Book Title: Saga, Volume 5 (Saga ...	Link: http://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html	Price: 51.04	
+Book Title: Rat Queens, Vol. 3: ...	Link: http://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html	Price: 50.40	
+Book Title: Princess Jellyfish 2-in-1 Omnibus, ...	Link: http://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html	Price: 13.61	
+Book Title: Pop Gun War, Volume ...	Link: http://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html	Price: 18.97	
+Book Title: Patience	Link: http://books.toscrape.com/catalogue/patience_916/index.html	Price: 10.16	
+Book Title: Outcast, Vol. 1: A ...	Link: http://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html	Price: 15.44	
+Book Title: orange: The Complete Collection ...	Link: http://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html	Price: 48.41	
+Book Title: Lumberjanes, Vol. 2: Friendship ...	Link: http://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html	Price: 46.91	
+Book Title: Lumberjanes, Vol. 1: Beware ...	Link: http://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html	Price: 45.61	
+Book Title: Lumberjanes Vol. 3: A ...	Link: http://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html	Price: 19.92	
+Book Title: I Hate Fairyland, Vol. ...	Link: http://books.toscrape.com/catalogue/i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html	Price: 29.17	
+Book Title: I am a Hero ...	Link: http://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html	Price: 54.63	
+Book Title: Giant Days, Vol. 2 ...	Link: http://books.toscrape.com/catalogue/giant-days-vol-2-giant-days-5-8_895/index.html	Price: 22.11	
+Book Title: Danganronpa Volume 1	Link: http://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html	Price: 51.99	
+Book Title: Codename Baboushka, Volume 1: ...	Link: http://books.toscrape.com/catalogue/codename-baboushka-volume-1-the-conclave-of-death_887/index.html	Price: 36.72	
+Book Title: Camp Midnight	Link: http://books.toscrape.com/catalogue/camp-midnight_886/index.html	Price: 17.08	
+Book Title: Tipping the Velvet	Link: http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html	Price: 53.74	
+Book Title: Forever and Forever: The ...	Link: http://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html	Price: 29.69	
+Book Title: A Flight of Arrows ...	Link: http://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html	Price: 55.53	
+Book Title: The House by the ...	Link: http://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html	Price: 36.95	
+Book Title: Mrs. Houdini	Link: http://books.toscrape.com/catalogue/mrs-houdini_821/index.html	Price: 30.25	
+Book Title: The Marriage of Opposites	Link: http://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html	Price: 28.08	
+Book Title: Glory over Everything: Beyond ...	Link: http://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html	Price: 45.84	
+Book Title: Love, Lies and Spies	Link: http://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html	Price: 20.55	
+Book Title: A Paris Apartment	Link: http://books.toscrape.com/catalogue/a-paris-apartment_612/index.html	Price: 39.01	
+Book Title: Lilac Girls	Link: http://books.toscrape.com/catalogue/lilac-girls_597/index.html	Price: 17.28	
+Book Title: The Constant Princess (The ...	Link: http://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html	Price: 16.62	
+Book Title: The Invention of Wings	Link: http://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html	Price: 37.34	
+Book Title: World Without End (The ...	Link: http://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html	Price: 32.97	
+Book Title: The Passion of Dolssa	Link: http://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html	Price: 28.32	
+Book Title: Girl With a Pearl ...	Link: http://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html	Price: 26.77	
+Book Title: Voyager (Outlander #3)	Link: http://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html	Price: 21.07	
+Book Title: The Red Tent	Link: http://books.toscrape.com/catalogue/the-red-tent_273/index.html	Price: 35.66	
+Book Title: The Last Painting of ...	Link: http://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html	Price: 55.55	
+Book Title: The Guernsey Literary and ...	Link: http://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html	Price: 49.53	
+Book Title: Girl in the Blue ...	Link: http://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html	Price: 46.83	
+Book Title: Sharp Objects	Link: http://books.toscrape.com/catalogue/sharp-objects_997/index.html	Price: 47.82	
+Book Title: In a Dark, Dark ...	Link: http://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html	Price: 19.63	
+Book Title: The Past Never Ends	Link: http://books.toscrape.com/catalogue/the-past-never-ends_942/index.html	Price: 56.50	
+Book Title: A Murder in Time	Link: http://books.toscrape.com/catalogue/a-murder-in-time_877/index.html	Price: 16.64	
+Book Title: The Murder of Roger ...	Link: http://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html	Price: 44.10	
+Book Title: The Last Mile (Amos ...	Link: http://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html	Price: 54.21	
+Book Title: That Darkness (Gardiner and ...	Link: http://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html	Price: 13.92	
+Book Title: Tastes Like Fear (DI ...	Link: http://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html	Price: 10.69	
+Book Title: A Time of Torment ...	Link: http://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html	Price: 48.35	
+Book Title: A Study in Scarlet ...	Link: http://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html	Price: 16.73	
+Book Title: Poisonous (Max Revere Novels ...	Link: http://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html	Price: 26.80	
+Book Title: Murder at the 42nd ...	Link: http://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html	Price: 54.36	
+Book Title: Most Wanted	Link: http://books.toscrape.com/catalogue/most-wanted_623/index.html	Price: 35.28	
+Book Title: Hide Away (Eve Duncan ...	Link: http://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html	Price: 11.84	
+Book Title: Boar Island (Anna Pigeon ...	Link: http://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html	Price: 59.48	
+Book Title: The Widow	Link: http://books.toscrape.com/catalogue/the-widow_609/index.html	Price: 27.26	
+Book Title: Playing with Fire	Link: http://books.toscrape.com/catalogue/playing-with-fire_602/index.html	Price: 13.71	
+Book Title: What Happened on Beale ...	Link: http://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html	Price: 25.37	
+Book Title: The Bachelor Girl's Guide ...	Link: http://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html	Price: 52.30	
+Book Title: Delivering the Truth (Quaker ...	Link: http://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html	Price: 20.89	
