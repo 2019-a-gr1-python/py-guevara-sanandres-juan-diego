@@ -1,0 +1,11 @@
+Book Title: It's Only the Himalayas	Link: http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html	Price: 45.17	
+Book Title: Full Moon over Noah’s ...	Link: http://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html	Price: 49.43	
+Book Title: See America: A Celebration ...	Link: http://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html	Price: 48.87	
+Book Title: Vagabonding: An Uncommon Guide ...	Link: http://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html	Price: 36.94	
+Book Title: Under the Tuscan Sun	Link: http://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html	Price: 37.33	
+Book Title: A Summer In Europe	Link: http://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html	Price: 44.34	
+Book Title: The Great Railway Bazaar	Link: http://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html	Price: 30.54	
+Book Title: A Year in Provence ...	Link: http://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html	Price: 56.88	
+Book Title: The Road to Little ...	Link: http://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html	Price: 23.21	
+Book Title: Neither Here nor There: ...	Link: http://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html	Price: 38.95	
+Book Title: 1,000 Places to See ...	Link: http://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html	Price: 26.08	
